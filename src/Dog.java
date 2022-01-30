@@ -13,7 +13,7 @@ public class Dog {
     }
 
     public Dog(String name) {
-        this ("metis", 2, name);
+        this ("shepherd", 2, name);
     }
 
     private void woof(){
